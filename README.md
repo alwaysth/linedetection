@@ -13,7 +13,7 @@ CNN과 Curve Fitting을 사용한 차선인식 프로그램.
 #### Calculate curvature
 #### Receive lines in LaneFinder
 
-
+* ![drawn_line](https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/master/output_images/0drawn_on.jpg)
 
 ## Important files:
 * LaneFinder.py
