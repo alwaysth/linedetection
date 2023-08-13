@@ -21,4 +21,4 @@ CNN과 Curve Fitting을 사용한 차선인식 프로그램.
 * lanelines.py
 
 Reference
-https://github.com/JonathanCMitchell/
+JonathanCMitchell
