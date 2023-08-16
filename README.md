@@ -4,7 +4,7 @@
 
 ### Finding the vanishing point
 ### Finding source points
-![]https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/feature/histogram/output_images/Vanishing_point.png
+![vanishing_pt](https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/feature/histogram/output_images/Vanishing_point.png)
 ### Finding the distance
 ![lane_lines_center_markings](https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/feature/histogram/output_images/lane_lines_with_centroid_markings.png)
 ### Lane Line Identification (inside LaneFinder.py and LaneLineFinder.py)
