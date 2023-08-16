@@ -1,17 +1,18 @@
 차선인식 프로그램 
 CNN과 Curve Fitting을 사용한 차선인식 프로그램.
 
-### Camera Distortion
-### Perspective Transformation 
-#### Finding the vanishing point
-#### Finding source points
-#### Finding the distance
+#### 주요기능
+
+### Finding the vanishing point
+* ![equation1](https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/feature/histogram/eqn/eqn1.png)
+### Finding source points
+### Finding the distance
 ### Lane Line Identification (inside LaneFinder.py and LaneLineFinder.py)
-#### Lane detection (LaneFinder.py)
-#### Preprocessing
-##### Detect yellow lane
-#### Calculate curvature
-#### Receive lines in LaneFinder
+### Lane detection (LaneFinder.py)
+### Preprocessing
+### Detect yellow lane
+### Calculate curvature
+### Receive lines in LaneFinder
 
 * ![drawn_line](https://github.com/JonathanCMitchell/Advanced-Lane-Line-Detection/blob/master/output_images/0drawn_on.jpg)
 
